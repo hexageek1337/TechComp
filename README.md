@@ -1,5 +1,5 @@
-# Pemilihan Ketua Voting (PKetuV)
-Sistem Pendukung Keputusan Pemilihan Ketua pada suatu organisasi dengan penerapan Group Voting menggunakan metode SAW (Simple Additive Weighting). Sistem PKetuV ini dibuat dengan PHP Native (versi 7.3) dan MySQL
+# TechComp
+Sistem Penjualan Barang sederhana yang menggunakan Bahasa Pemrograman PHP 7.2 serta MySQL untuk management database nya.
 
 # Want Upgrade?
 > $~ git pull origin master
