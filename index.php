@@ -60,7 +60,7 @@ if (isset($_GET['dashboard'])) {
 					if($rowBarang['stok_item'] != 0){ ?>
 				<div class="col-sm-6 col-md-4">
     				<div class="thumbnail" style="background: #ffffff url(images/back1.jpg) left bottom fixed; border-color: #2c3e50; border-radius: 1.5px;">
-      					<img class="img-responsive" src="<?=$config->link()?>/images/barang.jpg" alt="<?=$rowBarang['nama_item']?>" title="<?=$rowBarang['nama_item']?>" width="243" height="200">
+      					<img class="img-responsive" src="<?=$config->link('images/barang.jpg')?>" alt="<?=$rowBarang['nama_item']?>" title="<?=$rowBarang['nama_item']?>" width="243" height="200">
       					<div class="caption">
 	        				<h2><?=$rowBarang['nama_item']?></h2>
 	        				<p>Price : <span class="label label-info"><?=number_format($rowBarang['harga_item'],2,",",".")?></span> | Stok : <span class="label label-info"><?=$rowBarang['stok_item']?></span></p>
