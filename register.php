@@ -72,7 +72,7 @@ if($_POST AND $_POST['mail']){
 			<span class="icon-bar"></span>
 			<span class="icon-bar"></span>
 		  </button>
-		  <a class="navbar-brand" href="<?=$config->link('register.php')?>"><?=$config->title?></a>
+		  <a class="navbar-brand" href="<?=$config->link($config->folder.'register.php')?>"><?=$config->title?></a>
 		</div>
 
 		<!-- Collect the nav links, forms, and other content for toggling -->
@@ -111,7 +111,7 @@ if($_POST AND $_POST['mail']){
 				<button type="submit" class="login--form__button btn btn-default">Daftar</button>
 			</form>
 			<footer class="login--footer text-center">
-				<p class="login--footer__text">Sudah mempunyai akun? <strong><a href="<?=$config->link('login.php')?>">Login disini!</a></strong></p>
+				<p class="login--footer__text">Sudah mempunyai akun? <strong><a href="<?=$config->link($config->folder.'login.php')?>">Login disini!</a></strong></p>
 			</footer>
 		</div>
 	</div>

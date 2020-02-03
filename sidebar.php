@@ -2,6 +2,6 @@
 		<div class="panel-body">
 			<h5>Penjelasan Singkat</h5>
 			<hr/>
-			Aplikasi ini adalah aplikasi sederhana penjualan barang.<p>&nbsp;</p>
+			Aplikasi TechComp ini adalah aplikasi sederhana penjualan barang elektronik.<p>&nbsp;</p>
 		</div>
 	</div>
