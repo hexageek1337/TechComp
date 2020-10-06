@@ -1,5 +1,5 @@
 # TechComp
-Sistem Penjualan Barang sederhana yang menggunakan Bahasa Pemrograman PHP 7.2 serta MySQL untuk management database nya.
+Technology Computer merupakan sistem penjualan sederahana dengan menggunakan PHP Native (v7.3) dan MySQL untuk databasenya.
 
 # Want Upgrade?
 > $~ git pull origin master
